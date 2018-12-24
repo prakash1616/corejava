@@ -10,9 +10,9 @@ public class Departmne {
 			 return 12;
 			 
 		 }
-		 catch(Exception e){
+		/* catch(Exception e){
 			 return 12;
-		 }
+		 }*/
 		 
 		 finally {
 			System.out.println("finally");
